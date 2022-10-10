@@ -1,2 +1,0 @@
-https://www.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html
-https://www.mathworks.com/help/deeplearning/ug/layers-of-a-convolutional-neural-network.html
